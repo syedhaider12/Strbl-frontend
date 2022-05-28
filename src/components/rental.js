@@ -7,7 +7,7 @@ function Rental() {
     <h2 className="pt-10 pb-2 font-bold text-black md:text-2xl ">
           <span className="underline decoration-red-500 underline-offset-8">Rental</span> Products
         </h2>
-      <div className="flex flex-col items-center justify-center p-10 md:flex-row">
+      <div className="flex flex-col   items-center justify-center  md:flex-row">
         <div className="max-w-sm my-5 bg-white rounded-lg shadow-md md:mx-3 ">
           <img
             className="rounded-t-lg "
@@ -15,7 +15,7 @@ function Rental() {
             alt=""
           />
 
-          <div className="px-5 pb-5">
+          <div className="p-5">
             <h5 className="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
             ideapad 1 Laptop with 11.6 inch HD display
             </h5>
@@ -46,7 +46,7 @@ function Rental() {
             alt=""
           />
 
-          <div className="px-5 pb-5">
+          <div className="p-5">
           <h5 className="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
             ideapad 1 Laptop with 11.6 inch HD display
             </h5>
@@ -80,7 +80,7 @@ function Rental() {
             alt=""
           />
 
-          <div className="px-5 pb-5">
+          <div className="p-5">
           <h5 className="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
             ideapad 1 Laptop with 11.6 inch HD display
             </h5>
@@ -114,7 +114,7 @@ function Rental() {
             alt=""
           />
 
-          <div className="px-5 pb-5">
+          <div className="p-5">
           <h5 className="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
             ideapad 1 Laptop with 11.6 inch HD display
             </h5>
